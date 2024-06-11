@@ -16,7 +16,7 @@ const GithubIconLink: React.FC<GithubIconLinkProps> = ({ repoUrl }) => {
         height="40"
         viewBox="0 0 52 52"
         xmlns="http://www.w3.org/2000/svg"
-        className="text-transparent transition duration-300 cursor-pointer fill-current hover:text-blue-700 transform translate-y-3 stroke-[#020616] dark:stroke-[#dddfe7] w-8 md:w-12 lg:w-14"
+        className="text-transparent transition duration-300 cursor-pointer fill-current hover:text-white transform translate-y-3 stroke-[#020616] dark:stroke-[#dddfe7] w-8 md:w-12 lg:w-14"
       >
         <g id="GitHub-Icon">
           <path
